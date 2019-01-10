@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  shift_time: MyString
+  name: MyString
+  phone_num: MyString
+  email: MyString
+
+two:
+  shift_time: MyString
+  name: MyString
+  phone_num: MyString
+  email: MyString
